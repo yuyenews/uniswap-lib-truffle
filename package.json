@@ -1,0 +1,15 @@
+{
+  "name": "@uniswap-truffle/lib",
+  "version": "1.0.0",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "yuyenews",
+  "license": "GPL-3.0-or-later",
+  "keywords": [],
+  "description": ""
+}
